@@ -90,7 +90,7 @@ Por ser um projeto puramente estático (front-end), não há necessidade de um s
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/JohnReiiss/travel-site.git](https://github.com/JohnReiiss/travel-site.git)
+    git clone [https://github.com/DevSanthiago/travel-site.git](https://github.com/DevSanthiago/travel-site.git)
     cd travel-site
     ```
 2.  **Abra no Navegador:**
